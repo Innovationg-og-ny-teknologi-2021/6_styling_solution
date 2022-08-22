@@ -17,7 +17,8 @@ const GlobalStyles = StyleSheet.create({
     },
     btn_txt:{
         color:'white',
-        padding:40,
+        padding:10,
+        textAlign:'center'
     },
     blue:{
         backgroundColor:'blue',
